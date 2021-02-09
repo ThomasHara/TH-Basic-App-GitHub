@@ -12,6 +12,7 @@
             <%TH_Basic_App_GitHub.Class1 tp = new TH_Basic_App_GitHub.Class1(); %>
 
             <%=tp.Name %>
+            <%-- Test change --%>
         </div>
     </form>
 </body>
