@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TH Basic App GitHub", "TH Basic App GitHub\TH Basic App GitHub.csproj", "{485455FD-7E73-46E7-8CAA-A6FC5D600E73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAppTest", "BasicAppTest\BasicAppTest.csproj", "{4D540AED-2D44-4A60-8862-FA8298524A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{485455FD-7E73-46E7-8CAA-A6FC5D600E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485455FD-7E73-46E7-8CAA-A6FC5D600E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485455FD-7E73-46E7-8CAA-A6FC5D600E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485455FD-7E73-46E7-8CAA-A6FC5D600E73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D540AED-2D44-4A60-8862-FA8298524A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D540AED-2D44-4A60-8862-FA8298524A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D540AED-2D44-4A60-8862-FA8298524A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D540AED-2D44-4A60-8862-FA8298524A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C65D0A8E-0CE5-4518-9FFD-914598C060C3}
+	EndGlobalSection
+EndGlobal
